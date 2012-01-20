@@ -62,6 +62,17 @@ A listing of fixes applied to R17 of CCDB_406 20/01/12 - PUBLIC
 [Q] Properly Inspired
 [Q] Clamming Up
 [Q] Bellies Await
+[Q] What? What? In My Gut...? [H/A]
+[Q] Across the Great Divide
+[Q] Debriefing
+[Q] Wake of Destruction
+[Q] Decompression [H/A]
+[Q] Come Hell or High Water
+[Q] The Warden's Time
+[Q] Backed Into a Corner
+[Q] The Looming Threat
+[Q] Rundown
+[Q] Silver Tide Hollow
 
 -Other Fixes:
 [Q] Done Nothing Wrong
@@ -107,19 +118,6 @@ Corrected/Added SAI for over 1000 NPCs and Quests
 + Lots of Daily Quests corrected
 + 100's of Quests corrected in Durotar, Eversong Woods, Ghostlands, Northern Barrens
 
-
--Quests:
-[Q] What? What? In My Gut...? [H/A]
-[Q] Across the Great Divide
-[Q] Debriefing
-[Q] Wake of Destruction
-[Q] Decompression [H/A]
-[Q] Come Hell or High Water
-[Q] The Warden's Time
-[Q] Backed Into a Corner
-[Q] The Looming Threat
-[Q] Rundown
-[Q] Silver Tide Hollow
 
 FIXES APPLIED TO REBASE ONLY:
 Two tables added to character DB lfg_data, character_queststatus_seasonal
