@@ -121,39 +121,6 @@ Corrected/Added SAI for over 1000 NPCs and Quests
 [Q] Rundown
 [Q] Silver Tide Hollow
 
-58832 Items adjusted
-Game objects guid reset
-Sturdy Treasure Chest Loot fixed
-Heroic NPC fixes applied
-500+ start-up errors fixed
-[Q] Quest Not On My Watch!
-Battle at Valhalas fixed
-[SAI] Fledgling Brave
-[SAI] Troll start drummer
-[SAI] Tiki Target
-[Q] The Wakening
-[SAI] Pygmy Surf Crawler
-[SAI] Plainstrider
-[NPC] Hoboair <Gryphon Master>
-[Q] Assault on the Rotbrain Encampment
-[NPC] Mindless Zombies
-[NPC] Spirit healers fixed
-[Q] To Speak With Har'koa
-[Q] First Things First: We're Gonna Need Some Beer
-[Q] No More Mercy
-[NPC] King Reaperclaw
-[Q] Welcoming the Wolf Spirit
-[Q] The Ancient Brazier
-[NPC] King Bangalash
-[NPC] Brunnhildar Prisoner
-Many NPC Emotes Fixes 
-[Q] Our Tribe, Imprisoned
-Tauren Start Area Text Fixes
-[NPC] Battleboars
-[NPC] Bristlebacks
-[NPC] Novice Darkspear
-
-
 FIXES APPLIED TO REBASE ONLY:
 Two tables added to character DB lfg_data, character_queststatus_seasonal
 Updated to World Db tables, command, game_event_seasonal_questrelation
