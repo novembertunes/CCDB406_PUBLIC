@@ -4,8 +4,8 @@ COLOR 0b
 SET Pbuild_ver= G5 12-13-11
 SET Sbuild_ver= 12-31-11
 SET SRbuild_ver= 01-12-12
-SET updatetime= Jan 20,2012 20:14pm
-SET dbrev= CCDB R17
+SET updatetime= Jan 24,2012 20:14pm
+SET dbrev= CCDB R17a
 SET release_ver= PUBLIC
 :TOP
 
@@ -87,7 +87,7 @@ ECHO          º        Please Choose an option                 º
 ECHO          º                                                º
 ECHO          º  C. Goto Original CCDB Installation Options    º
 ECHO          º                                                º
-ECHO          º  S. Goto Rebase CCDB Installation Options      º
+ECHO          º  S. Goto Skyfire CCDB Installation Options      º
 ECHO          º                                                º
 ECHO          º  X  Exit Install tool                          º
 ECHO          º                                                º
